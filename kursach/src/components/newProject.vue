@@ -54,7 +54,6 @@
         </ul>
       </footer>
     </div>
-    <p>{{ newProject }}</p>
   </template>
   
   <script>
